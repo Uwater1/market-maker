@@ -1,0 +1,5 @@
+{
+  "name": "Delta Neutral: The Market Maker's Shield",
+  "description": "An interactive demonstration of delta hedging and how option market makers maintain risk-neutral positions.",
+  "requestFramePermissions": []
+}
